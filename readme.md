@@ -21,6 +21,7 @@ built using react express
 
 ## TODO
 
+* add test
 * add tailwindcss 
 * add mongoose
 * add authentication route in express
