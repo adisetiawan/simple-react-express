@@ -18,3 +18,9 @@ built using react express
 ## Build production
 
 `npm run build`
+
+## TODO
+
+* add tailwindcss 
+* add mongoose
+* add authentication route in express
