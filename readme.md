@@ -7,3 +7,14 @@ built using react express
 * Nodemon
 * Webpack
 
+## Installation
+
+`npm install`
+
+## run local dev
+
+`npm run dev`
+
+## Build production
+
+`npm run build`
